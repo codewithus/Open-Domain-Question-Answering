@@ -1,0 +1,229 @@
+
+
+form
+{
+	font-family: Times New Roman;
+	font-size: 20px;
+	color:white;
+	padding-top: 3%;
+	margin-left: 3%;
+	padding-bottom:3%;
+}
+
+.frm
+{
+	font-family: Times New Roman;
+	font-size: 20px;
+	color:white;
+	height:100%;
+	padding-top: 3%;
+	margin-left: 3%;
+	padding-bottom:3%;
+	width: 100%;
+
+	border-radius:15px;
+	
+}
+.txt
+{
+	width: 380px;
+	height: 20px;
+	border: 1px solid gray;
+	border-radius:5px;
+	color:royalblue;
+	font-family:sans-serif;
+	font-size: 18px;
+	padding: 3px;
+}
+.txt1
+{
+	width: 180px;
+	height: 30px;
+	border: 1px solid gray;
+	border-radius:5px;
+	color:royalblue;
+	font-family:sans-serif;
+	font-size: 18px;
+	padding: 3px;
+}
+.but
+{
+	background-color: #5F9EA0;
+	width: 100px;
+	height: 25px;
+	border:1px solid #5F9EA0;
+	border-radius:5px;
+	font-size:15px;
+	-moz-transition:1s;
+	font-family: cursive;
+	color: white;
+	padding-bottom: 5px;
+}
+.but:hover
+{
+	background-color: #32CD32;
+	font-size:15px;
+	color:black;
+	font-family: cursive;
+	width: 100px;
+	height: 25px;
+	border:1px solid #5F9EA0;
+	border-radius:5px;
+	padding-bottom: 5px;
+}
+#wiki
+{
+	padding: 20px;
+	background-color: green;
+	margin-top:3%;
+	border: 1px solid;
+	border-radius:10px;
+	
+}
+
+#wiki p
+{
+		color: white;
+	font-family:  Times New Roman;
+	font-size: 20px; 
+	padding:5px;
+	text-align: justify;
+}
+
+#footer
+{
+	margin-top: 7%;
+	width: 80%;
+	height: 30%;
+	margin-left: 3%;
+	
+}
+#footer p
+{
+	font-family: Times New Roman;
+	text-transform: capitalize;
+	color: green;
+	line-height:150%;
+	font-size:18px;
+	font-style: italic;
+	font-weight: bold;
+}
+#footer img {
+	margin-right: 58%;
+	
+	float: right;
+}
+
+#footerbar
+{
+	
+	width: 99%;
+	position:absolute;
+	
+	background-color: gray;
+	bottom: 0;
+	color:white;
+	padding: 0;
+}
+#footerbar a
+{
+	color: white;
+	text-decoration: none;
+}
+#footerbar a:hover
+{
+	-moz-transition:1s;
+	color: yellow;
+	text-decoration: none;
+}
+#footerbar li img
+{
+	margin-left: 3px;
+}
+#footerbar ul {
+	margin:0;
+	list-style: none;
+	padding-left: 40%;
+}
+#footerbar li {
+	padding-top:1px;
+	background-color:gray;
+		font-family: Times New Roman;
+	font-size:large;
+	margin-left:8px;
+	float: left;
+}
+
+#cont
+{
+	margin-top:12%;
+	width: 60%;
+	background-color: teal;
+	color: white;
+	padding: 20px;
+	font-family: Times New Roman;
+	font-size: 20px;
+	border-radius:10px;
+}
+
+
+
+
+#abt
+{
+	margin-top:10%;
+	width: 60%;
+	background-color: #0072C6;
+	color: white;
+	padding: 20px;
+	font-family: Times New Roman;
+	font-size: 20px;
+	border-radius:10px;
+}
+
+
+center a
+{
+	text-decoration: none;
+	color: teal;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+#sercont
+{
+
+background-color:green;
+
+	width: 68%;
+	height: 40%;
+	margin-left: 18%;
+	margin-top: 5%;
+	border-radius:15px;
+	box-shadow: 10px 10px 5px #888888;
+}
+#sercont1
+{
+	background-color:#6B8E23;
+	width: 70%;
+	height: 15%;
+	margin-left: 18%;
+	margin-top: 5%;
+	border-radius:15px;
+	box-shadow: 10px 10px 5px #8B7D7B;
+}
+h3
+{
+	text-transform: capitalize;
+	color: blue;
+	margin-left: 5%;
+	margin-top:2%;
+	font-family: fantasy;
+	font-size: 30px;
+}
+#wiki p table
+{
+	width: 50%;
+	background-color: green;
+	margin-left: 20%;
+}

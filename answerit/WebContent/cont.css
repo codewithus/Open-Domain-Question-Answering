@@ -1,0 +1,36 @@
+
+#wea
+{
+	width:35%;
+/*border: solid 1px;*/
+	border-radius:15px;border-collapse:collapse;
+	background-color: #008B00;
+	
+}
+
+
+#wea tr td{
+
+/*border:1px solid black;*/
+font-family:fantasy;
+font-size:20px;
+padding-left: 10px;
+	
+}
+#wea p
+{
+	font-family:cursive;
+	text-transform:capitalize;
+	font-size: 20px;color:#CCCCFF;
+}
+#wea img
+{
+	padding:0;
+}
+#wea td:nth-child(1) {  
+font-family:cursive;
+font-size:20px;
+padding-left:20%;
+color:white;
+padding-right: 10px;
+}

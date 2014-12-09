@@ -1,0 +1,11 @@
+The project needs
+
+JDK1.7, Apache 7 web server and MongoDB should be installed
+
+before start mongoDB store the sample data in database
+
+the all database files placed in databkp folder
+
+restore database using following command
+
+mongorestore -d answeritdb d:\Open Domain Question Answering System\answeritdb

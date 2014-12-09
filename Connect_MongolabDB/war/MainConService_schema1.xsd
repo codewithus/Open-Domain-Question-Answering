@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" targetNamespace="http://dbconn/" xmlns:tns="http://dbconn/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="get_first" type="tns:get_first"/>
+
+  <xs:element name="get_firstResponse" type="tns:get_firstResponse"/>
+
+  <xs:element name="info_box" type="tns:info_box"/>
+
+  <xs:element name="info_boxResponse" type="tns:info_boxResponse"/>
+
+  <xs:complexType name="info_box">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg1" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="info_boxResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="get_first">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="get_firstResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+

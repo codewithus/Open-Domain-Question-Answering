@@ -1,0 +1,10 @@
+Minimum Hardware Requirements
+Intel Core 2 Duo 2.4 gigahertz (GHz) or faster processor ( recommended Intel Core 2 Duo (3.16ghz))
+At least 2 gigabyte (GB) of RAM (4 gigabytes recommended)
+
+Software/System Requirements
+Operating System	: Windows XP Service pack 3 or Higher Versions
+Development Kit	: Java SE 1.7, Java EE 7
+Database	     	: MongoDB 2.2.6 and above
+IDE		: Eclipse Juno 4
+Tools		: Stanford POS tagger, JSON Parser, jsoup, UMongo Editor
