@@ -28,3 +28,9 @@ Mongorestore –d answeritdb path to db files<br>
 Here the folder answeritdb contains all db files include in your path<br>
 Go to KB folder and open run.bat wait until web service to be start.<br>
 3)Open eclipse juno and import project select answerit folder config with apache 7 and run it<br>
+
+#Preview
+Working version is available in GAE with below link<br>
+<a href="http://answerit356.appspot.com/" target="_blank">http://answerit356.appspot.com/</a>
+
+Note: This GAE application is running with without DB.
