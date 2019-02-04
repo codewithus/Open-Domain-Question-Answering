@@ -17,7 +17,7 @@ This project consists of three modules<br>
 2)Knowledge base web service<br>
 3)Main Module (Question Answering)<br>
 
-Steps to running projects<br>
+Steps to run projects<br>
 ________________________________________
 1.First start the POS(part of speech) web service<br>
 Go to POS_WS folder and open run.bat wait until web service to be start.<br>
@@ -33,4 +33,4 @@ Go to KB folder and open run.bat wait until web service to be start.<br>
 Working version is available in GAE with below link<br>
 <a href="http://answerit356.appspot.com/" target="_blank">http://answerit356.appspot.com/</a>
 
-Note: This GAE application is running with without DB.
+Note: This GAE application is running without DB.
